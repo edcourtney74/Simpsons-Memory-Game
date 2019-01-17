@@ -13,10 +13,17 @@ https://edcourtney74.github.io/Simpsons-Memory-Game/
 ## Technical Features  
   * Single-Page React app
   * Fully mobile responsive
+  * Uses the Fisher-Yates Shuffle to randomly shuffle the characters after each selection
   
 ***
 ## Screenshots
-### Dashboard View
-![Dashboard photo](https://github.com/JustinL63/NextUp/blob/master/public/images/dashboard.PNG "Dashboard")
+### Demo
+![Demo](https://github.com/edcourtney74/Simpsons-Memory-Game/blob/master/public/images/demo.gif "Demo")
+
+### Full View
+![Full view](https://github.com/edcourtney74/Simpsons-Memory-Game/blob/master/public/images/full.png "Full view")
+
+### Mobile View
+![Mobile view](https://github.com/edcourtney74/Simpsons-Memory-Game/blob/master/public/images/mobile.png "Mobile view")
 
 
