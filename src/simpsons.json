@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Bart",
+        "image": "./images/Bart.png",
+        "clicked": false
+    },
+    
+    {
+        "id": 2,
+        "name": "Homer",
+        "image": "./images/Homer.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Lisa",
+        "image": "./images/Lisa.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Maggie",
+        "image": "./images/Maggie.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Marge",
+        "image": "./images/Marge.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Martin",
+        "image": "./images/Martin.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Moe",
+        "image": "./images/Moe.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Ned",
+        "image": "./images/Ned.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Nelson",
+        "image": "./images/Nelson.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Ralph",
+        "image": "./images/Ralph.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Troy",
+        "image": "./images/Troy.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Krusty",
+        "image": "./images/Krusty.png",
+        "clicked": false
+    }
+]

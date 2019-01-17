@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+    cursor: pointer;
+}
+
+img:hover {
+    opacity: .3;
+}
+
+.card {
+    border-color: gray;
+}
